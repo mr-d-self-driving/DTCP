@@ -5,4 +5,4 @@ This repository contains the official code for the paper **Interpretable Decisio
 
 ## Status
 
-Code will be published by November 25, 2025.
+The code will be fully published by March 2026.
